@@ -13,7 +13,7 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 
-public class SearchEditText extends EditText implements View.OnKeyListener, View.OnFocusChangeListener, TextWatcher {
+public class SearchEditText extends AppCompatEditText implements View.OnKeyListener, View.OnFocusChangeListener, TextWatcher {
 
 
     /**
